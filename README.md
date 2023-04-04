@@ -1,2 +1,2 @@
 # Scratch
-A copy of scratch.mit.edu
+A HTML copy of Scratch
